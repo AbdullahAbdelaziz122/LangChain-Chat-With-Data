@@ -1,5 +1,6 @@
 # US Criminal Code Chatbot with RAG and Llama 3
 
+![Chatbot Demo](images/image.png)
 ## Project Overview
 
 This project is a **Retrieval-Augmented Generation (RAG)**-powered chatbot that allows users to query and receive responses based on the **US criminal code**. Using **Llama 3** as the foundation language model, this chatbot integrates real-time document retrieval with LLM capabilities, allowing it to dynamically access and generate responses based on specific legal documents. 
