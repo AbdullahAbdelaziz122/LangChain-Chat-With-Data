@@ -65,12 +65,11 @@ The project is designed to be model-agnostic, meaning you can use any language m
 
 ```
 us-criminal-code-chatbot/
-├── app.py                  # Main application script
-├── requirements.txt        # List of dependencies
-├── utils.py                # Utility functions for document retrieval
-├── models/                 # Code for model setup and inference
-├── data/                   # Placeholder for data (documents)
-└── README.md               # Project documentation
+├── Chat With Your Data.pptx                    # Presentation for the project 
+├── requirements.txt                            # List of dependencies
+├── Q&A_Legal_App.ipynb                         # Experimental Notebook (Main)
+├── responses of RAG_APP.docx                   # This is what we got through training and evaluation of the model 
+└── README.md                                   # Project documentation
 ```
 
 ## How It Works
