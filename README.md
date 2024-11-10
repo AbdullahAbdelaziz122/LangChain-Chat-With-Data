@@ -43,7 +43,7 @@ Legal research is often challenging, especially when users need detailed, accura
    - Register for a free API key at [Hugging Face](https://huggingface.co/).
    - Add your API key to the environment as follows:
      ```bash
-   HUGGING_FACE_API_KEY="your_api_key_here"
+     HUGGING_FACE_API_KEY="your_api_key_here"
      ```
 
 ### Running the Project
