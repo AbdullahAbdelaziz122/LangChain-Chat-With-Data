@@ -43,16 +43,14 @@ Legal research is often challenging, especially when users need detailed, accura
    - Register for a free API key at [Hugging Face](https://huggingface.co/).
    - Add your API key to the environment as follows:
      ```bash
-     export HUGGING_FACE_API_KEY="your_api_key_here"
+   HUGGING_FACE_API_KEY="your_api_key_here"
      ```
 
 ### Running the Project
 
 1. **Start the Interface**
    Launch the Gradio-powered interface with the following command:
-   ```bash
-   python app.py
-   ```
+   - Run the Notebook and add your model API key .
 
 2. **Upload and Query Legal Documents**
    - Through the interface, you can upload a PDF or text document and enter queries related to the US criminal code.
@@ -98,7 +96,3 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ### License
 
 This project is licensed under the MIT License.
-
----
-
-This README provides a comprehensive overview, installation steps, and user guidance, making it easier for others to understand and use your project.
